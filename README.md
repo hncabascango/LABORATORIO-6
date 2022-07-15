@@ -1,16 +1,16 @@
-# LABORATORIO 5 - TEOREMA DE LA MÁXIMA TRANSFERENCIA DE POTENCIA 
+# LABORATORIO 6 - TEOREMA DE LA MÁXIMA TRANSFERENCIA DE POTENCIA 
 
 ## OBJETIVOS
 
 ### Objetivo General
 
-Demostrar el teorema de máxima transferencia de potencia mediante la construcción del circuito físico y simulado para comparar los resultados obtenidos
+Demostrar el teorema de máxima transferencia de potencia mediante la construcción del circuito físico y simulado para comparar los resultados obtenidos.
 
 ### Objetivos Específicos
 
-- Armar el circuito en el simulador DCACLAB para un mayor entendimiento y poder medir la potencia de la resistencia
+- Construir el circuito eléctrico para medir voltajes, corrientes y así calcular la potencia.
 
-- Construir el circuito eléctrico para medir voltajes, corrientes y así calcular la potencia
+- Armar el circuito en el simulador DCACLAB para medir la potencia con cada valor de RL.
 
 ## MARCO  TEÓRICO
 
@@ -74,7 +74,7 @@ Demostrar el teorema de máxima transferencia de potencia mediante la construcci
 
 ![image](https://user-images.githubusercontent.com/105606339/179172341-79e6425f-735b-44c4-8621-d43524dd22e8.png)
 
-### Para RL = 4700Ω
+### Para RL = 4700
 
 ![image](https://user-images.githubusercontent.com/105606339/179172471-276bd3ed-b2bb-4435-900d-a63584f9ed61.png)
 
@@ -104,7 +104,9 @@ Se obtiene la mayor transferencia de potencia con la RL de 1000Ω
 
 ## CONCLUSIONES
 
--
+- Se ha calculado el voltaje y la corriente con cada valor de RL, con estos valores obtenidos se hallará la potencia en función de estos.
+
+- Se ha medido la potencia con cada valor de RL propuesto en la tabla, obteniendo la máxima potencia de 0.048 W con la RL de 1000Ω que es la más cercana al valor de la resistencia interna.
 
 ## BIBLIOGRAFÍA
 
