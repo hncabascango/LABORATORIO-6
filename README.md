@@ -25,9 +25,11 @@
 
 ![image](https://user-images.githubusercontent.com/105606339/179165533-b599462b-27e9-4254-b4e0-4d79ff50d30d.png)
 
-
 ![image](https://user-images.githubusercontent.com/105606339/179165559-c5529c9d-ff9a-4704-aea3-56a72e2795ab.png)
 
+![image](https://user-images.githubusercontent.com/105606339/179270372-124577ea-7c01-4217-98b0-0492aff46635.png)
+
+![image](https://user-images.githubusercontent.com/105606339/179270402-7dc7316e-25d2-4aae-a314-fa3620bed7d1.png)
 
 ### Potencia simulada
 
@@ -75,9 +77,7 @@ Para RL = 220Ω
 
 ### Tabla de parámetros eléctricos del circuito 
 
-
-
-
+![image](https://user-images.githubusercontent.com/105606339/179270486-e3bd955f-34ba-4852-81ae-407c467b607c.png)
 
 
 ## RESPUESTA A INTERROGANTES Y CÁLCULO DE ERROR
