@@ -9,6 +9,8 @@
 
 ## MARCO  TEÓRICO
 
+![image](https://user-images.githubusercontent.com/105606339/179175673-f87fe0f7-52c3-4d14-87bb-a3ab1e068e4b.png)
+
 ## EXPLICACIÓN DEL PROCEDIMIENTO
 
 ### Material y Equipo requerido
@@ -16,6 +18,10 @@
 ![image](https://user-images.githubusercontent.com/105606339/179170161-e40c5ae4-9c2b-4a43-8efe-d875abbfd351.png)
 
 ### Potencia calculada teóricamente
+
+### Circuito para comprobar el Teorema de la MTP
+
+![image](https://user-images.githubusercontent.com/105606339/179175769-7bd5b314-2cd1-462e-9f93-c5e622ebee1b.png)
 
 ![image](https://user-images.githubusercontent.com/105606339/179165533-b599462b-27e9-4254-b4e0-4d79ff50d30d.png)
 
