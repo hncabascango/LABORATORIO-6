@@ -4,8 +4,13 @@
 
 ### Objetivo General
 
+Demostrar el teorema de máxima transferencia de potencia mediante la construcción del circuito físico y simulado para comparar los resultados obtenidos
+
 ### Objetivos Específicos
 
+- Armar el circuito en el simulador DCACLAB para un mayor entendimiento y poder medir la potencia de la resistencia
+
+- Construir el circuito eléctrico para medir voltajes, corrientes y así calcular la potencia
 
 ## MARCO  TEÓRICO
 
@@ -33,7 +38,8 @@
 
 ### Potencia simulada
 
-Para RL = 220Ω
+### Para RL = 220Ω
+
 ![image](https://user-images.githubusercontent.com/105606339/179163286-ead8a4d5-ddf0-4522-9c7e-cb7c63ca8b64.png)
 
 ### Para RL = 470Ω
@@ -73,8 +79,6 @@ Para RL = 220Ω
 ![image](https://user-images.githubusercontent.com/105606339/179172471-276bd3ed-b2bb-4435-900d-a63584f9ed61.png)
 
 
-
-
 ### Tabla de parámetros eléctricos del circuito 
 
 ![image](https://user-images.githubusercontent.com/105606339/179270486-e3bd955f-34ba-4852-81ae-407c467b607c.png)
@@ -84,24 +88,27 @@ Para RL = 220Ω
 
 ¿Se cumple el Teorema de la máxima transferencia de potencia? 
 
+El terorema de  máxima transferencia de potencia no se ha cumplido ya que al calcular la potencia con la RL de 1200Ω se ha obtenido 0.049 W, una potencia mayor que los obtenidos con los valores RL propuestos en la tabla.
+
 ¿Cuál fue la potencia máxima en RL?
 
-¿Para qué valor de RL se obtiene la MTO?
+La potencia máxima fue de 0.048 W
+
+¿Para qué valor de RL se obtiene la MTP?
+
+Se obtiene la mayor transferencia de potencia con la RL de 1500Ω
 
 Grafique la curva potencia vs RL y comente
 
 
-
-
-
-
 ## CONCLUSIONES
+
 
 ## BIBLIOGRAFÍA
 
+Pereda, J. (4 de septiembre de 2020). Universidad de Cantabria. Obtenido de https://personales.unican.es/peredaj/pdf_apuntes_ac/presentacion-teoremas.pdf
 
-
-
+Floyd, TL (2007). Principios de circuitos electricos. México: EDUCACIÓN DE LA PERSONA.
 
 
 
