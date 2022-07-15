@@ -102,6 +102,10 @@ Se obtiene la mayor transferencia de potencia con la RL de 1000Ω
 
 ![image](https://user-images.githubusercontent.com/105606339/179281923-4810f128-14d0-4cdc-9751-5da90150d0af.png)
 
+### Cálculos de error
+
+![image](https://user-images.githubusercontent.com/105606339/179289651-b9defb0c-16a6-40c7-aa7f-8ee50a094735.png)
+
 ## CONCLUSIONES
 
 - Se ha calculado el voltaje y la corriente con cada valor de RL, con estos valores obtenidos se hallará la potencia en función de estos.
