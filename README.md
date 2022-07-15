@@ -86,23 +86,25 @@ Demostrar el teorema de máxima transferencia de potencia mediante la construcci
 
 ## RESPUESTA A INTERROGANTES Y CÁLCULO DE ERROR
 
-¿Se cumple el Teorema de la máxima transferencia de potencia? 
+### ¿Se cumple el Teorema de la máxima transferencia de potencia? 
 
 El terorema de  máxima transferencia de potencia no se ha cumplido ya que al calcular la potencia con la RL de 1200Ω se ha obtenido 0.049 W, una potencia mayor que los obtenidos con los valores RL propuestos en la tabla.
 
-¿Cuál fue la potencia máxima en RL?
+### ¿Cuál fue la potencia máxima en RL?
 
 La potencia máxima fue de 0.048 W
 
-¿Para qué valor de RL se obtiene la MTP?
+### ¿Para qué valor de RL se obtiene la MTP?
 
-Se obtiene la mayor transferencia de potencia con la RL de 1500Ω
+Se obtiene la mayor transferencia de potencia con la RL de 1000Ω
 
-Grafique la curva potencia vs RL y comente
+### Grafique la curva potencia vs RL y comente
 
+![image](https://user-images.githubusercontent.com/105606339/179281923-4810f128-14d0-4cdc-9751-5da90150d0af.png)
 
 ## CONCLUSIONES
 
+-
 
 ## BIBLIOGRAFÍA
 
